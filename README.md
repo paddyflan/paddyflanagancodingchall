@@ -7,7 +7,7 @@ Flask
 Flask-Restful
 Flask-SQLAlchemy
 
-# Usage 
+## Usage 
 To run the API, execute the following command in terminal 
 python3 main.py
 
