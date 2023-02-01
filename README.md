@@ -3,8 +3,8 @@
 For this project a REST API was created with Flask and SQLAlchemy to register sensors, add metrics to the sensors and then query the sensor data for the average value of the metrics over a specified date range.
 
 ## Requirements
-Flask
-Flask-Restful
+Flask\n
+Flask-Restful\n
 Flask-SQLAlchemy
 
 ## Usage 
