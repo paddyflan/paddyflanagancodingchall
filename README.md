@@ -8,9 +8,8 @@ For this project a REST API was created with Flask and SQLAlchemy to register se
 * Flask-SQLAlchemy
 
 ## Usage 
-To run the API, execute the following command in terminal 
-python3 main.py
-
+To run the API, execute the following command in terminal  
+python3 main.py  
 To then generate the test cases execute the following command in a separate terminal window  
 python3 test.py  
 Three sensors will be registered to the database  
